@@ -1,4 +1,4 @@
-package com.robermejia.clases_anonimas;
+package ClaseAnonimas;
 
 public interface Animal {
     void hacerSonido();

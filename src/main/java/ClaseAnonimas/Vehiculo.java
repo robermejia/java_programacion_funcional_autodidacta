@@ -1,4 +1,4 @@
-package com.robermejia.clases_anonimas;
+package ClaseAnonimas;
 
 public class Vehiculo {
     // clase vacia
